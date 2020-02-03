@@ -1,0 +1,12 @@
+[submodule "even_or_odd_8_020220"]
+	path = even_or_odd_8_020220
+	url = ./even_or_odd_8_020220/
+[submodule "multiply_8_020220"]
+	path = multiply_8_020220
+	url = ./multiply_8_020220/
+[submodule "opposite_number_8_020220"]
+	path = opposite_number_8_020220
+	url = ./opposite_number_8_020220/
+[submodule "sum_of_positive_8_020220"]
+	path = sum_of_positive_8_020220
+	url = ./sum_of_positive_8_020220/
